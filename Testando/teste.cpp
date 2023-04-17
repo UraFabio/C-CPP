@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main(){
-	int x;
-	printf("%d", x);
+	
+	printf("%d", sizeof(char));
 	return 0;
 }
 
