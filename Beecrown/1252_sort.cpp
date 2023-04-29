@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 int main(){
-	printf("%d", sizeof(char));
+	printf("%d", -100%4);
 	
+
 	return 0;
 }
 
